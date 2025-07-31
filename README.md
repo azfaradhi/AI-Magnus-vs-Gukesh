@@ -70,4 +70,4 @@ Aplikasi ini adalah implementasi permainan catur sederhana yang berfokus pada sk
    npm run dev
    ```
 
-3. Buka http://localhost:3000 di browser, atau dapat langsung mengakses link deployment.
+3. Buka http://localhost:3000 di browser, atau dapat langsung mengakses link deployment berikut: https://ai-magnus-azfaradhi.vercel.app/.

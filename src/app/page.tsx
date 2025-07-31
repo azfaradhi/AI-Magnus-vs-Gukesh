@@ -549,7 +549,6 @@ const handlePromotionChoice = useCallback((chosenPiece: string) => {
 				>
 					<option value="minimax">Minimax (Alpha-Beta Pruning)</option>
 					<option value="alternative1">MCTS (Monte Carlo Tree Search)</option>
-					<option value="alternative2">Alternatif 2 (Bonus)</option>
 				</select>
 				</div>
 
